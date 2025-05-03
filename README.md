@@ -1,7 +1,6 @@
 # airbnb-clone-project
-# team roles
-# technology Stack
-# database design
-# api security
-# ci/cd pipelines
+["Team Roles"]
+["Technology Stack"]
+["Database Design"]
+["Api Security"]
 ["CI/CD Pipeline"]
