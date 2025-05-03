@@ -29,7 +29,7 @@ GraphQL: Allows for flexible and efficient querying of data.
     Features: Post and manage reviews for properties.
 
 
-[Features Breakdown]
+[Feature Breakdown]
 1. User Authentication
 
 2. Property Management
