@@ -3,5 +3,5 @@
 ["Technology Stack"]
 ["Database Design"]
 ["Feature Breakdown"]
-["Api Security"]
+["API Security"]
 ["CI/CD Pipeline"]
